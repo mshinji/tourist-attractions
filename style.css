@@ -91,7 +91,9 @@ ul li {
   list-style-type: disc;
 }
 
-
+ol{
+  list-style-position: inside;
+}
 ol li::marker {
   font-weight: bold;
   font-size: 28px;
