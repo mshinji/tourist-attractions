@@ -97,11 +97,13 @@ ol{
 ol li::marker {
   font-weight: bold;
   font-size: 28px;
+  color: #333333;
 }
 
 ul li::marker {
   font-weight: bold;
   font-size: 16px;
+  color: #333333;
 }
 
 ul li {
