@@ -21,13 +21,28 @@ body {
   color: #E1624F;
 }
 
-#title-headline{
 
-}
 
 #title{
   font-size: 36px;
   font-weight: bold;
   line-height: auto;
-
+  margin-bottom: 40px;
 }
+
+img {
+  border-radius: 28px;
+}
+
+#title-description p {
+  font-size: 16px;
+  font-style: italic;
+  color: 333333;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#title-image img {
+  margin-bottom: 24px;
+}
+
